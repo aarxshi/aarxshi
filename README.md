@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi there, I'm Aarushi!<br><br>## 🚀 About Me<br>- 🎓 I'm a **second-year Computer Science and Business Systems student**.<br>- 🔭 I'm currently working on **a map website for my college**.<br>- 🎨 I’m into **art, photography, and design**.<br>- 💡 Passionate about **AI, ML, and coding**.
+👋 Hi there, I'm Aarushi!<br><br>## 🚀 About Me<br>- 🎓 I'm a **second-year Computer Science and Business Systems student**.<br>- 🔭 I'm currently working on **a map website for my college**.<br>- 🎨 I’m into **art, photography, and design**.<br>- 💡 Passionate about **AI, ML, and coding**.
 
 
 ## 🌐 Socials:
