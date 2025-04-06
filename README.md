@@ -1,5 +1,8 @@
 # 💫 Hi there, I'm Aarushi!
-🚀 About Me<br>- 🎓 I'm a **second-year Computer Science and Business Systems student**.<br>- 🔭 I'm currently working on **a map website for my college**.<br>- 🎨 I’m into **art, photography, and design**.<br>- 💡 Passionate about **AI, ML, and coding**.
+ ## About Me
+
+I'm a second-year student pursuing **Computer Science and Business Systems**, with a keen interest in the intersection of **AI/ML, design, and data-driven problem solving**. I enjoy working on projects that combine **technology and real-world impact**. I'm also into **art and photography**, and love exploring how creativity and tech can go hand-in-hand.
+
 
 
 ## 🌐 Socials:
