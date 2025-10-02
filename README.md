@@ -1,7 +1,7 @@
 # 🌐 Hello,World! I'm Aarushi
  ## About Me
 
-I'm a second-year student pursuing **Computer Science and Business Systems**, with a keen interest in the intersection of **AI/ML, design, and data-driven problem solving**. I enjoy working on projects that combine **technology and real-world impact**. I'm also into **art and photography**, and love exploring how creativity and tech can go hand-in-hand.
+I'm a third-year student pursuing **Computer Science and Business Systems**, with a keen interest in the intersection of **AI/ML, design, and data-driven problem solving**. I enjoy working on projects that combine **technology and real-world impact**. I'm also into **art and photography**, and love exploring how creativity and tech can go hand-in-hand.
 
 
 
