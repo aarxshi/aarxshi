@@ -8,8 +8,17 @@ Recently: **Meta PyTorch Hackathon finalist** (top 800 / 31,000+) and **solo-pub
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-chakraborty/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarushichakraborty345@gmail.com)
 
-## Top Languages
-![Top Languages](https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=aarxshi&layout=compact&theme=tokyonight)
+<div align="center">
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aarxshi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api?username=aarxshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=aarxshi&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarxshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+</div>
+
