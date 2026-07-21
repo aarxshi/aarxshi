@@ -1,24 +1,37 @@
-# Hello, World! I'm Aarushi
+# hello :) 
 
-## About Me
-I'm a third-year student pursuing **Computer Science and Business Systems**, with a focus on **AI/ML and scientific computing**. I enjoy building projects that sit at the intersection of **deep learning, data pipelines, and real-world problems** — from physics classifiers to RL environments to LLM systems.
+I collect side projects.<br><br>
 
-Recently: **Meta PyTorch Hackathon finalist** (top 800 / 31,000+) and **solo-published** in IJCA 2026.
+Some become research papers.<br>
+Some become websites used across campus.<br>
+Some become hackathon projects.<br>
+Some become "I'll fix this tomorrow."<br><br>
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-chakraborty/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarushichakraborty345@gmail.com)
+```txt
+$ whoami
 
-## Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarxshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+Aarushi Chakraborty
 
-## Stats
+Final Year, Computer Science & Business Systems @ DSCE
 
-<div align="center">
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarxshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+Currently collecting:<br>
 
-<img src="https://streak-stats.demolab.com?user=aarxshi&theme=tokyonight&hide_border=true" height="165" />
+-  Building an interactive campus map for DSCE
+-  Working on AI features for Spandan @ IIT Ropar
+-  Learning more about distributed systems and LLMs
 
-</div>
+A few things i'm proud of:<br>
 
+-  Solo publication in IJCA 2026
+-  Meta PyTorch Hackathon Finalist
+-  Interned at Vicharanashala Labs and Infosys Springboard<br><br>
+
+ ```txt 
+$ exit
+
+Thanks for stopping by!
+```
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aarushi-chakraborty/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="20" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:aarushichakraborty345@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" width="20" alt="Gmail"></a>
 
